@@ -9,3 +9,4 @@ class Home extends MY_Controller {
 		$this->web_view('home/index');
 	}
 }
+
